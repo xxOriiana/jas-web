@@ -1,0 +1,30 @@
+
+
+.navbar-toggler{
+    border: none !important;
+}
+.navbar-toggler:focus{
+    box-shadow: none !important;
+}
+
+.HomeClass{
+    font-family: 'Dancing Script', cursive;
+    font-size: 21px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.img-logo{ 
+    margin-right: 20px;
+}
+
+/* MEDIA ICONS */
+
+.bag-btn {
+    position: absolute;
+    color: white;
+    left: 80%;
+    font-size: 1px;
+}
